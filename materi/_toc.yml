@@ -9,5 +9,4 @@ chapters:
 - file : dataset
 - file : Tugas_Pertemuan_11
 - file : peramalan_kadar
-_ file : analisa_prediksi_skforecast
-
+- file : analisa_prediksi_skforecast
